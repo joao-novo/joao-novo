@@ -1,5 +1,11 @@
 ### Hi there 👋
+---
+# About Me
+My name is João Novo. I am a Computer Science and Engineering student at Instituto Superior Técnico and an aspiring software engineer with interest in areas such as AI/ML, Quantum Computing and Backend Development.
 
+---
+# Projects
+-  [rustpomo](https://github.com/joao-novo/rustpomo) - A Pomodoro timer made in Rust using the Clap framework, with Flowtime functionality.
 <!--
 **joao-novo/joao-novo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
