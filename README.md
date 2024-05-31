@@ -7,7 +7,6 @@ My name is João Novo. I am a Computer Science and Engineering student at Instit
 # Projects
 -  [rustpomo](https://github.com/joao-novo/rustpomo) - A Pomodoro timer made in Rust using the Clap framework, with Flowtime functionality. __Status: ❌ [UNFINISHED]__
 -  [fxplot](https://github.com/joao-novo/fxplot) - A mathematical function parser, plotter and frontend GUI written in Python, Go and Svelte. __Status: ❌ [UNFINISHED]__
--  [risc-v-parser](https://github.com/joao-novo/risc-v-parser) - A parser for RISC-V assembly code, converting it into machine code written in Rust. __Status: ❌ [UNFINISHED]__
 <!--
 **joao-novo/joao-novo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
