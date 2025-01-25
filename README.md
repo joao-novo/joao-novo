@@ -1,12 +1,11 @@
 ### Hi there 👋
 ---
 # About Me
-My name is João Novo. I am a Computer Science and Engineering student at Instituto Superior Técnico and an aspiring software engineer with interest in areas such as AI/ML, Quantum Computing and Backend Development.
+My name is João Novo. I am a Computer Science and Engineering student at Instituto Superior Técnico and an aspiring software engineer with interest in areas such as AI/ML, Quantum Computing and Systems Development.
 
 ---
 # Projects
 -  [rustpomo](https://github.com/joao-novo/rustpomo) - A Pomodoro timer made in Rust using the Clap framework, with Flowtime functionality. __Status: ❌ [UNFINISHED]__
--  [fxplot](https://github.com/joao-novo/fxplot) - A mathematical function parser, plotter and frontend GUI written in Python, Go and Svelte. __Status: ❌ [UNFINISHED]__
 <!--
 **joao-novo/joao-novo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
