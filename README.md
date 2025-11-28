@@ -1,12 +1,14 @@
 ### Hi there 👋
 ---
 # About Me
-My name is João Novo. I am a Computer Science and Engineering student at Instituto Superior Técnico and an aspiring software engineer with interest in areas such as AI/ML, Quantum Computing and Systems Development.
+My name is João Novo. I am a Computer Science and Engineering student at Instituto Superior Técnico and an aspiring software engineer with interest in areas such as Language Design, Functional Programming and Software Engineering/DevOps.
 
 ---
 # Projects
 -  [rustpomo](https://github.com/joao-novo/rustpomo) - A Pomodoro timer made in Rust using the Clap framework, with Flowtime functionality. __Status: ❌ [UNFINISHED]__
 -  [mathvis](https://github.com/mathvis) - A math animation CLI and API inspired by Manim, with a domain-specific scripting language. __Status: ❌ [UNFINISHED]__
+- [henceforth](https://github.com/riogu/henceforth) - A compiler and interpreter for a stack-based language inspired by Forth, with an imperative twist.
+__Status: ❌ [UNFINISHED]__
 <!--
 **joao-novo/joao-novo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
