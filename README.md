@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 # About Me
-My name is João Novo. I am a Computer Science and Engineering student at Instituto Superior Técnico and an aspiring software engineer with interest in areas such as Language Design, Functional Programming and Software Engineering/DevOps.
+My name is João Novo. I am a Computer Science and Engineering student at Instituto Superior Técnico and an aspiring software engineer with interest in areas such as Language Design, Functional Programming and Software Verification/Model Checking.
 
 ---
 # Projects
